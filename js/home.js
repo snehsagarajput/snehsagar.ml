@@ -23,8 +23,8 @@ const messages = [
       'I\'m currently looking for Internships and Full time roles.<br>' +
       ' You can contact me at <a href="mailto:snehsagarajput@gmail.com">snehsagarajput@gmail.com</a> <i class="fas fa-envelope"></i>',
       'Checkout my <a href="/resume.html">Resume</a> <i class="fas fa-file"></i>',
-      '<a target="_blank" href="https://github.com/snehsagarajput"><i class="fab fa-github"></i></a>&nbsp&nbsp&nbsp' +
-      '<a target="_blank" href="https://www.linkedin.com/in/snehsagarajput/"><i class="fab fa-linkedin"></i></a>&nbsp',
+      '<a target="_blank" href="https://www.linkedin.com/in/snehsagarajput/"><i class="fab fa-linkedin">&nbspLinkedin</i></a><br>' +
+      '<a target="_blank" href="https://github.com/snehsagarajput"><i class="fab fa-github">&nbspGithub</i></a>',
       getCurrentTime(),
       '👀 S.'
 ];
