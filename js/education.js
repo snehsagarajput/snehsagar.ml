@@ -9,7 +9,7 @@ const educationDetails = [
       'Could not clear JEE ^_^',//&nbsp<i class="far fa-grimace"></i><br>&nbsp 
       'Dropped for a year <i class="fas fa-chalkboard"></i> ',
       'Got into Kalinga Institute of Industrial Technology in 2017 <i class="fas fa-university"></i> ',
-      'Pursuing Bachelor of Technology in <br>Electronics and Telecommunications Engineering <i class="fas fa-stamp"></i> ',
+      'Pursuing Bachelor of Technology in Electronics and Telecommunications Engineering <i class="fas fa-stamp"></i> ',
       '& continuously learning...',
 ];
 
