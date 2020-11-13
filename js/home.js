@@ -22,7 +22,7 @@ const messages = [
       'Checkout my <a href="/projects.html">Projects</a> <i class="fas fa-laptop-code"></i>',
       'I\'m currently looking for Internships and Full time roles.<br>' +
       ' You can contact me at <a href="mailto:snehsagarajput@gmail.com">snehsagarajput@gmail.com</a> <i class="fas fa-envelope"></i>',
-      'Checkout my <a href="/resume.html">Resume</a> <i class="fas fa-file"></i>',
+      'Checkout my <a href="/assests/resume.pdf">Resume</a> <i class="fas fa-file"></i>',
       '<a target="_blank" href="https://www.linkedin.com/in/snehsagarajput/"><i class="fab fa-linkedin">&nbspLinkedin</i></a><br>' +
       '<a target="_blank" href="https://github.com/snehsagarajput"><i class="fab fa-github">&nbspGithub</i></a>',
       getCurrentTime(),
