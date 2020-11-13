@@ -2,7 +2,7 @@ import alpha from "./master.js";
 
 
 const educationDetails = [
-      '&nbsp2002 : Started my schooling  <i class="fas fa-child"></i> <br>&nbsp&nbsp',
+      '&nbsp2002 : Started my schooling  <i class="fas fa-child"></i> &nbsp&nbsp',
       '&nbsp2014 : Passed High School <i class="fas fa-school"></i> ',
       '&nbspGot interested in Science <i class="fas fa-microscope"></i> ',
       '&nbsp2016 : Passed Higher Secondary <i class="fas fa-graduation-cap"></i> ',
