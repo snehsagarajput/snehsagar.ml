@@ -3,8 +3,8 @@ import alpha from "./master.js";
 
 const skillsList = [
       'I know a few Programming Languages <i class="fas fa-laptop-code"></i>&nbsp&nbsp &nbsp <br> C &nbspC++ &nbspPython<br> &nbsp',
-      'I develop frontend applications using<br><i class="fab fa-html5"></i> &nbsp<i class="fab fa-css3-alt"></i>' +
-      ' &nbsp<i class="fab fa-js"></i> &nbsp<i class="fab fa-react"></i> ',
+      'I develop frontend applications using<br><i class="fab fa-html5">HTML</i> &nbsp<i class="fab fa-css3-alt">CSS</i>' +
+      ' &nbsp<i class="fab fa-js">JavaScript</i> &nbsp<i class="fab fa-react">ReactJS</i> ',
       'I use these frameworks often <i class="fas fa-layer-group"></i>&nbsp<br>Tensorflow &nbspReact-Native',
       'I love to play with these tools <i class="fas fa-terminal"></i>&nbsp<br>' +
       'Github &nbspVS‑Code &nbspGoogle‑Colab',
@@ -16,4 +16,4 @@ const skillsList = [
 
 
 
-window.onload = alpha(skillsList);
+window.onload = alpha(skillsList, 30);

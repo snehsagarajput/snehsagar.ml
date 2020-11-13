@@ -29,7 +29,7 @@ const messages = [
       '👀 S.'
 ];
 
-window.onload = alpha(messages);
+window.onload = alpha(messages, 20);
 
 
 

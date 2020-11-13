@@ -2,17 +2,15 @@ import alpha from "./master.js";
 
 
 const educationDetails = [
-      'Started my schooling in 2002  <i class="fas fa-child"></i> <br>&nbsp',
-      'Passed High School in 2014 <i class="fas fa-school"></i> ',
-      'Got interested in Science <i class="fas fa-microscope"></i> ',
-      'Passed Higher Secondary in 2016 <i class="fas fa-graduation-cap"></i> ',
-      'Could not clear JEE ^_^',//&nbsp<i class="far fa-grimace"></i><br>&nbsp 
-      'Dropped for a year <i class="fas fa-chalkboard"></i> ',
-      'Got into Kalinga Institute of Industrial Technology in 2017 <i class="fas fa-university"></i> ',
-      'Pursuing Bachelor of Technology in Electronics and Telecommunications Engineering <i class="fas fa-stamp"></i> ',
-      '& continuously learning...',
+      '&nbsp2002 : Started my schooling  <i class="fas fa-child"></i> <br>&nbsp&nbsp',
+      '&nbsp2014 : Passed High School <i class="fas fa-school"></i> ',
+      '&nbspGot interested in Science <i class="fas fa-microscope"></i> ',
+      '&nbsp2016 : Passed Higher Secondary <i class="fas fa-graduation-cap"></i> ',
+      '&nbsp2017 : Got into Kalinga Institute of Industrial Technology<i class="fas fa-university"></i> ',
+      '-2021 : Pursuing Bachelor of Technology in Electronics and Telecommunications Engineering <i class="fas fa-stamp"></i> ',
+      '&nbsp& continuously learning...',
 ];
 
 
 
-window.onload = alpha(educationDetails);
+window.onload = alpha(educationDetails, 30);

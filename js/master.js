@@ -1,7 +1,7 @@
-const alpha = (messages) => {
+const alpha = (messages, speed = 20) => {
 
     const messagesEl = document.querySelector('.messages');
-    const typingSpeed = 20;
+    const typingSpeed = speed;
     const loadingText = '<b>•</b><b>•</b><b>•</b>';
     let messageIndex = 0;
 
