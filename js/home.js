@@ -15,7 +15,7 @@ const getCurrentTime = () => {
 const messages = [
       'Hey there 👋',
       'I\'m Sneh Sagar <i class="fas fa-male"></i>',
-      'I am currently an undergraduate student at <a target="_blank" href="https://kiit.ac.in/">KIIT University</a>, Bhubaneswar.' +
+      'I am currently an undergraduate student at <a target="_blank" href="https://kiit.ac.in/">KIIT University</a>, Bhubaneswar. ' +
       '<br>Checkout my <a href="/education.html">Education</a> <i class="fas fa-user-graduate"></i>',
       'Here are some of my <a href="/skills.html">Skills</a> <i class="fas fa-tools"></i>',
       'I love to write optimized code.<br>' +
